@@ -1,0 +1,68 @@
+body {
+    background-color: #36b5ad;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #a21b92;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+#love-letter {
+    text-align: center;
+    padding: 20px;
+}
+
+#love-letter p {
+    font-size: 1.2em;
+}
+
+#reasons {
+    text-align: center;
+    padding: 20px;
+}
+
+#reasons ul {
+    list-style-type: heart; /* Custom bullet style */
+    padding: 0;
+}
+
+#reasons li {
+    font-size: 1.2em;
+}
+
+#surprises {
+    text-align: center;
+    padding: 20px;
+}
+
+#surprises button {
+    background-color: #ffb3c1;
+    color: #fff;
+    font-size: 1.2em;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#surprises button:hover {
+    background-color: #ff8399;
+}
+
+footer {
+    background-color: #ffc4d8;
+    text-align: center;
+    padding: 10px;
+}
